@@ -1,1 +1,1 @@
-# veritiktok.
+tiktok-developers-site-verification=tQ2LiAIhF4SUPcOk4u9C4wJTUuSNQLuX
